@@ -103,12 +103,12 @@ john --wordlist=dictionary.txt --format=LM sam.txt
 ```
 
 Tools:
-https://github.com/danielmiessler/SecLists/tree/master/Passwords
-https://github.com/moonD4rk/HackBrowserData
-https://github.com/ohyicong/decrypt-chrome-passwords
-https://www.dumpzilla.org/
-https://www.openwall.com/john/
-https://github.com/azan121468/SAMdump2
+* https://github.com/danielmiessler/SecLists/tree/master/Passwords
+* https://github.com/moonD4rk/HackBrowserData
+* https://github.com/ohyicong/decrypt-chrome-passwords
+* https://www.dumpzilla.org/
+* https://www.openwall.com/john/
+* https://github.com/azan121468/SAMdump2
 
 ## F. Enable Administrator using chntpw (Kali)
 
